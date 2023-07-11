@@ -1,0 +1,5 @@
+name: Anti32k
+version: '${project.version}'
+main: com.techhaxor.anti32k.Anti32k
+load: STARTUP
+authors: [T3chHax0r]
